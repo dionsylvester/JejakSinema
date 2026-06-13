@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**About**
+JejakSinema is a web-based platform that allows users to keep track of the movies they have watched. Through JejakSinema, users can easily log their viewing history, leave personal reviews visible to the community, and share their thoughts on any film. Additionally, the platform enables users to create personalized watchlists, discover new movies, and explore reviews from other community members.
